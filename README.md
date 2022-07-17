@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @thechirag2002
 - 👀 I’m interested in Artificial Intellegence
-- 🌱 I’m currently learning Machine Learning/Deep Learning
+- 🌱 I’m currently working on Machine Learning and Deep Learning projects focussing on Image Processing
+- 📚 I'm currently learning Web Development
+- 🎲 I'm fond of Problem Solving 
 - 📫 How to reach me chiragchanana2002@gmail.com
 
 <!---
